@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.582 s <<< FAILURE! - in TestSuite
+restAssuredFW.LibraryApiTests.Test5  Time elapsed: 0.599 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <404>.
+
+	at restAssuredFW.LibraryApiTests.Test5(LibraryApiTests.java:20)
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-20T13:43:25 PST" name="Default suite" finished-at="2019-12-20T13:44:50 PST" duration-ms="85263">
+    <groups>
+    </groups>
+    <test started-at="2019-12-20T13:43:25 PST" name="Default test" finished-at="2019-12-20T13:44:50 PST" duration-ms="85263">
+      <class name="restAssuredFW.OAuthTests">
+        <test-method is-config="true" signature="setProperties()[pri:0, instance:restAssuredFW.OAuthTests@2b48a640]" started-at="2019-12-20T13:43:25 PST" name="setProperties" finished-at="2019-12-20T13:43:25 PST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProperties -->
+        <test-method signature="Test6()[pri:0, instance:restAssuredFW.OAuthTests@2b48a640]" started-at="2019-12-20T13:43:25 PST" name="Test6" finished-at="2019-12-20T13:44:50 PST" duration-ms="85201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6 -->
+      </class> <!-- restAssuredFW.OAuthTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
